@@ -6,14 +6,14 @@ import ProductForm from './ProductForm';
 
 
 let PRODUCTS = {
-  '1': {id: 1, category: 'Food', price: '$100', name: 'Hariom'},
-  '2': {id: 2, category: 'Shoes', price: '$1200', name: 'Converse'},
+  '1': {id: 1, category: 'Clothing', price: '$100', name: 'Old Navy'},
+  '2': {id: 2, category: 'Jacket', price: '$100', name: 'Columbia'},
   '3': {id: 3, category: 'Books', price: '$225', name: 'Title'},
-  '4': {id: 4, category: 'Watch', price: '$2000', name: 'Rolex'},
-  '5': {id: 5, category: 'Sweatshirt', price: '$100', name: 'Nike'},
-  '6': {id: 6, category: 'Cleats', price: '$350', name: 'Adidas'},
+  '4': {id: 4, category: 'Watch', price: '$200', name: 'Rolex'},
+  '5': {id: 5, category: 'Car', price: '$7000', name: 'BMW'},
+  '6': {id: 6, category: 'Bike', price: '$1500', name: 'Ninja'},
   '7': {id: 7, category: 'Housing', price: '$2000', name: 'Wadrobe'},
-  '8': {id: 8, category: 'Clothing', price: '$300', name: 'H&M'}
+  '8': {id: 8, category: 'Laptop', price: '$1500', name: 'Apple'}
 };
 
 
